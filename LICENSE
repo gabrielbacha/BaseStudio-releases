@@ -1,0 +1,29 @@
+BaseStudio License
+
+Copyright (c) 2026 Gabriel Bacha. All rights reserved.
+
+This license covers the BaseStudio desktop application and the BaseStudio
+plugin for Obsidian.
+
+Subject to these terms, Gabriel Bacha grants you a non-exclusive, worldwide,
+royalty-free license to download, install and use the unmodified BaseStudio
+desktop application, and the unmodified BaseStudio plugin in Obsidian, for
+personal or internal business use.
+
+Except as permitted by applicable law or with prior written permission from
+Gabriel Bacha, you may not redistribute, sublicense, sell, modify or create
+derivative works of the proprietary BaseStudio portions of this distribution.
+No license to the private source code is granted by this distribution.
+
+Third-party components remain governed by their respective licenses. For the
+plugin, those licenses are reproduced in THIRD-PARTY-NOTICES.txt and retained
+in the distributed bundle. Nothing in this license restricts rights granted
+under those third-party licenses or under any separately provided license for
+an earlier copy of BaseStudio. The @gabrielbacha/bases-contract package keeps
+its own MIT license and is not covered by this license.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER
+IS NOT LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE
+SOFTWARE OR ITS USE.
